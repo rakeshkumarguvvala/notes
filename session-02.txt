@@ -13,7 +13,7 @@ Processor
 
 Windows vs Mac vs Linux
 ========================
-Secure -> SSH
+Linux is a Secure -> SSH
 No graphics
 	Low power
 	Low bandwidth
@@ -25,7 +25,7 @@ run for years no need of restart
 anti virus not required
 opensource
 
-hardware and software are tightly coupled
+apple - hardware and software are tightly coupled
 
 Authentication mechanisms
 ========================
